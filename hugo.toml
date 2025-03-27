@@ -1,0 +1,5 @@
+theme = 'hugo-universal-theme'
+themesdir = 'themes'
+
+ [markup.goldmark.renderer]
+      unsafe = true
