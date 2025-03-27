@@ -1,4 +1,4 @@
-baseurl = "https://Wes-Harrold.github.io/"
+baseurl = "https://wes-harrold.github.io/"
 theme = 'hugo-universal-theme'
 themesdir = 'themes'
 
